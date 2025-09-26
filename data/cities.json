@@ -35,54 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Totana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-09-26T08:10:23.206Z",
-      "notes": "234",
-      "position": {
-        "lat": "37.80544394934274",
-        "lng": "-1.4941406250000002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Saint-Denis-de-Jouhet",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-09-26T08:13:49.567Z",
-      "notes": "asd",
-      "position": {
-        "lat": "46.5286346952717",
-        "lng": "1.8896484375000002"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Sidi Boutayeb",
-      "country": "Morocco",
-      "emoji": "🇲🇦",
-      "date": "2025-09-26T08:21:41.035Z",
-      "notes": "fasd",
-      "position": {
-        "lat": "33.119150226768866",
-        "lng": "-3.9770507812500004"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Gualdo Cattaneo",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-09-26T08:23:46.019Z",
-      "notes": "gbvv",
-      "position": {
-        "lat": "42.94033923363183",
-        "lng": "12.48046875"
-      },
-      "id": 98443201
     }
   ]
 }
